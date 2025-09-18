@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Cambio en main branch
+=======
+Cambio en feature branch
+>>>>>>> feature-branch
+Cambios no commiteados
+Cambio adicional
