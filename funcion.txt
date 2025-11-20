@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+nueva funcion agregada
+=======
+nueva funcion agregada, ahra tiene un cambio 
+>>>>>>> 9b6c650 (primer commit)

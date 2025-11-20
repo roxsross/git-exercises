@@ -1,0 +1,6 @@
+(function($) {
+
+	"use strct";
+
+
+})(jQuery);
