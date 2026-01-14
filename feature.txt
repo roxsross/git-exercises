@@ -1,1 +1,7 @@
-nueva funcionalidad agregada VERSION REBASE
+nueva funcionalidad agregada VERSION 20260113
+cambio en main
+rebase arreglado
+
+
+
+
