@@ -1,6 +1,0 @@
-modulos/
-node_modules/
-.env
-.crt
-dist/
-build/
